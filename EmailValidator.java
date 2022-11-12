@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
 public class Main {
-
+//Uses the edison email format
+    //Example Student email: 3069420@edison.k12.nj.us
+    //Example Staff Email: john.smith@edison.k12.nj.us
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String userName = " ", domain = " ";
